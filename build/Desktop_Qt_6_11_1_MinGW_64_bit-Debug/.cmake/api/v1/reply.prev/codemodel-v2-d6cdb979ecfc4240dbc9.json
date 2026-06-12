@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-260855fbd02000633835.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "enentwieget",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "enentwieget::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enentwieget-Debug-334f623cbb1f22517e37.json",
+					"name" : "enentwieget",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "enentwieget_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enentwieget_autogen-Debug-7d3e1d37b4c614fbb307.json",
+					"name" : "enentwieget_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "enentwieget_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-enentwieget_autogen_timestamp_deps-Debug-d60233f5d54a33a370ee.json",
+					"name" : "enentwieget_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+		"source" : "E:/qtProject/enentwieget"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

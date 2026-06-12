@@ -1,0 +1,28 @@
+{
+	"BUILD_DIR" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/enentwieget_autogen",
+	"CMAKE_BINARY_DIR" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/qtProject/enentwieget",
+	"CMAKE_SOURCE_DIR" : "E:/qtProject/enentwieget",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "MinGW Makefiles",
+	"INCLUDE_DIR" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/enentwieget_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/qtProject/enentwieget/normal.jpg",
+		"E:/qtProject/enentwieget/ha1.jpg",
+		"E:/qtProject/enentwieget/ready.jpg",
+		"E:/qtProject/enentwieget/ha.jpg"
+	],
+	"LOCK_FILE" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/enentwieget_autogen.dir/AutoRcc_rec_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "rec" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_rec.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.11.1/mingw_64/bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/qtProject/enentwieget/build/Desktop_Qt_6_11_1_MinGW_64_bit-Debug/CMakeFiles/enentwieget_autogen.dir/AutoRcc_rec_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/qtProject/enentwieget/rec.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}
